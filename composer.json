@@ -1,0 +1,20 @@
+{
+    "name": "emailValidation",
+    "description": "email validation and parse function",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "emailValidation\\": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "require": {
+        "symfony/polyfill-intl-idn": "^1.23"
+    },
+    "require-dev": {
+      "phpunit/phpunit": "^9"
+    }
+}
