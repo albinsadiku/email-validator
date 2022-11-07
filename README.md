@@ -1,4 +1,4 @@
-# emailValidation/parser
+# emailValidation
 
 email function for validation/parse
 
