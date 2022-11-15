@@ -48,7 +48,7 @@ array(11) {
 }
 */
 
-// Go crazy
+
 $parts = email_parse('@테스트。テスト');
 var_dump($parts);
 /*
